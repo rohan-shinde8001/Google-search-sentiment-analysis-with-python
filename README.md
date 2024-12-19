@@ -19,8 +19,7 @@ TextBlob
 # Installation
 
 Clone the repository:
-git clone https://github.com/Mayur2157/Google-Search-Analysis-with-Python
-cd google-search-analysis
+
 
 Create and activate a virtual environment:
 python -m venv search_analysis_env
